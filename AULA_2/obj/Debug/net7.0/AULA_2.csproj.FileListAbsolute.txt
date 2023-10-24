@@ -1,0 +1,14 @@
+C:\DevFiles\ISTEC\IP-FDS\AULA_2\bin\Debug\net7.0\AULA_2.exe
+C:\DevFiles\ISTEC\IP-FDS\AULA_2\bin\Debug\net7.0\AULA_2.deps.json
+C:\DevFiles\ISTEC\IP-FDS\AULA_2\bin\Debug\net7.0\AULA_2.runtimeconfig.json
+C:\DevFiles\ISTEC\IP-FDS\AULA_2\bin\Debug\net7.0\AULA_2.dll
+C:\DevFiles\ISTEC\IP-FDS\AULA_2\bin\Debug\net7.0\AULA_2.pdb
+C:\DevFiles\ISTEC\IP-FDS\AULA_2\obj\Debug\net7.0\AULA_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\DevFiles\ISTEC\IP-FDS\AULA_2\obj\Debug\net7.0\AULA_2.AssemblyInfoInputs.cache
+C:\DevFiles\ISTEC\IP-FDS\AULA_2\obj\Debug\net7.0\AULA_2.AssemblyInfo.cs
+C:\DevFiles\ISTEC\IP-FDS\AULA_2\obj\Debug\net7.0\AULA_2.csproj.CoreCompileInputs.cache
+C:\DevFiles\ISTEC\IP-FDS\AULA_2\obj\Debug\net7.0\AULA_2.dll
+C:\DevFiles\ISTEC\IP-FDS\AULA_2\obj\Debug\net7.0\refint\AULA_2.dll
+C:\DevFiles\ISTEC\IP-FDS\AULA_2\obj\Debug\net7.0\AULA_2.pdb
+C:\DevFiles\ISTEC\IP-FDS\AULA_2\obj\Debug\net7.0\AULA_2.genruntimeconfig.cache
+C:\DevFiles\ISTEC\IP-FDS\AULA_2\obj\Debug\net7.0\ref\AULA_2.dll
