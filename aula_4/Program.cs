@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace aula_4
 {
@@ -27,14 +27,21 @@ namespace aula_4
                 // double imc = Convert.ToInt32(peso / (altura*altura));
                 // Console.WriteLine(imc);
 
-                Console.WriteLine("Tempo de Viagem");
-                Console.Write("Distância em KM: ");
-                double distancia = Convert.ToDouble(Console.ReadLine());
-                Console.Write("Velocidade Média em km/h: ");
-                double velocidadeMedia = Convert.ToDouble(Console.ReadLine());
-                double tempo = Convert.ToInt32(distancia/velocidadeMedia);
-                Console.WriteLine($"O tempo para chegar ao destino é aproximadamente de {tempo}h");
+                // Console.WriteLine("Tempo de Viagem");
+                // Console.Write("Distância em KM: ");
+                // double distancia = Convert.ToDouble(Console.ReadLine());
+                // Console.Write("Velocidade Média em km/h: ");
+                // double velocidadeMedia = Convert.ToDouble(Console.ReadLine());
+                // double tempo = Convert.ToInt32(distancia/velocidadeMedia);
+                // Console.WriteLine($"O tempo para chegar ao destino é aproximadamente de {tempo}h");
 
+                Console.WriteLine("Divisão da Conta do Restaurante");
+                Console.Write("Total da Conta: ");
+                double conta = Convert.ToDouble(Console.ReadLine());
+                Console.Write("Num de Pessoas: ");
+                int pessoas = Convert.ToInt32(Console.ReadLine());
+                double valorConta = conta / pessoas;
+                Console.WriteLine($"Valor total para cada um das {pessoas} pessoas: {valorConta}$");
             }
     }
 }
